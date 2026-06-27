@@ -1,4 +1,4 @@
-# 🚀 Product Requirement Document (PRD)
+# Product Requirement Document (PRD)
 
 ## 📌 Product Name
 
